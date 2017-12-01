@@ -14,7 +14,7 @@
  *= require_self
  *= require_tree ./css
  */
- 
+
 
  /*-----------------------------------------------------------------------------------
 
@@ -7419,7 +7419,7 @@
  .feature-box.fbox-plain .fbox-icon img {
 	 border: none !important;
 	 background-color: transparent !important;
-	 color: #1ABC9C;
+	 color: #221F7F;
 	 border-radius: 0;
  }
 
